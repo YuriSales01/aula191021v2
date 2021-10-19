@@ -1,0 +1,3 @@
+Carrinhos de Compra é a mesma coisa do pedido
+Envio quando a compra for consumada
+Detalhes do pedido (revisar)
